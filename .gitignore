@@ -1,0 +1,6 @@
+venv/ 
+__pycache__/ 
+models/checkpoint_*.pth 
+data/train/ 
+*.pth 
+!models/best_model.pth 
