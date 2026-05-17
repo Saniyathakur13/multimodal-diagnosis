@@ -155,17 +155,6 @@ Output: Pneumonia (92% confidence)
 | 9 | Age Risk Factor | 19 | Lymph Node |
 | 10 | Comorbidity Index | 20 | Vascular Anomaly |
 
-## 🚢 Deployment
-
-### Deploy to Render.com
-
-1. Push code to GitHub
-2. Create account at [render.com](https://render.com)
-3. Click "New +" → "Blueprint"
-4. Connect your repository
-5. Render auto-detects `render.yaml`
-6. Deploy automatically
-
 ### Environment Variables (Optional)
 ```env
 PYTHON_VERSION=3.11.0
